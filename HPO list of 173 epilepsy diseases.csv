@@ -1,0 +1,2954 @@
+Export for OMIM:121200,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002411,Myokymia
+HP:0002266,Focal clonic seizures
+HP:0001270,Motor delay
+HP:0002069,Generalized tonic-clonic seizures
+HP:0001263,Global developmental delay
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:121201,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002266,Focal clonic seizures
+HP:0002069,Generalized tonic-clonic seizures
+Total,
+Export for OMIM:132300,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0002353,EEG abnormality
+Total,
+Export for OMIM:159600,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002123,Generalized myoclonic seizures
+Total,
+Export for OMIM:159950,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0200136,Oral-pharyngeal dysphagia
+HP:0000726,Dementia
+HP:0001308,Tongue fasciculations
+HP:0001336,Myoclonus
+HP:0001337,Tremor
+HP:0002359,Frequent falls
+HP:0002123,Generalized myoclonic seizures
+HP:0002398,Degeneration of anterior horn cells
+HP:0010628,Facial palsy
+HP:0002355,Difficulty walking
+HP:0001284,Areflexia
+HP:0003011,Abnormality of the musculature
+HP:0003391,Gowers sign
+HP:0007269,Spinal muscular atrophy
+HP:0002747,Respiratory insufficiency due to muscle weakness
+HP:0008955,Progressive distal muscular atrophy
+HP:0002359,Frequent falls
+HP:0010628,Facial palsy
+HP:0002355,Difficulty walking
+HP:0000152,Abnormality of head or neck
+HP:0200136,Oral-pharyngeal dysphagia
+HP:0010628,Facial palsy
+HP:0001308,Tongue fasciculations
+HP:0002086,Abnormality of the respiratory system
+HP:0002747,Respiratory insufficiency due to muscle weakness
+HP:0002205,Recurrent respiratory infections
+HP:0000924,Abnormality of the skeletal system
+HP:0002650,Scoliosis
+HP:0002715,Abnormality of the immune system
+HP:0002205,Recurrent respiratory infections
+HP:0025031,Abnormality of the digestive system
+HP:0200136,Oral-pharyngeal dysphagia
+Total,
+Export for OMIM:182610,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002313,Spastic paraparesis
+HP:0001258,Spastic paraplegia
+HP:0001250,Seizures
+HP:0001249,Intellectual disability
+HP:0003011,Abnormality of the musculature
+HP:0007340,Lower limb muscle weakness
+HP:0001258,Spastic paraplegia
+HP:0002313,Spastic paraparesis
+HP:0040064,Abnormality of limbs
+HP:0007340,Lower limb muscle weakness
+Total,
+Export for OMIM:203600,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0002353,EEG abnormality
+HP:0000252,Microcephaly
+HP:0001249,Intellectual disability
+HP:0001574,Abnormality of the integument
+HP:0001596,Alopecia
+HP:0008070,Sparse hair
+HP:0000924,Abnormality of the skeletal system
+HP:0000252,Microcephaly
+HP:0000152,Abnormality of head or neck
+HP:0000252,Microcephaly
+Total,
+Export for OMIM:226800,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007207,Photosensitive tonic-clonic seizures
+HP:0001264,Spastic diplegia
+HP:0001249,Intellectual disability
+HP:0003011,Abnormality of the musculature
+HP:0001264,Spastic diplegia
+Total,
+Export for OMIM:254770,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0012001,EEG with generalized polyspikes
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002121,Absence seizures
+HP:0002133,Status epilepticus
+HP:0007000,Morning myoclonic jerks
+Total,
+Export for OMIM:254780,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007334,Generalized tonic-clonic seizures with focal onset
+HP:0000726,Dementia
+HP:0001336,Myoclonus
+HP:0001288,Gait disturbance
+HP:0002367,Visual hallucinations
+HP:0000709,Psychosis
+HP:0002123,Generalized myoclonic seizures
+HP:0025121,Simple partial occipital seizures
+HP:0002344,Progressive neurologic deterioration
+HP:0002121,Absence seizures
+HP:0011165,Visual auras
+HP:0002186,Apraxia
+HP:0000478,Abnormality of the eye
+HP:0000572,Visual loss
+HP:0025031,Abnormality of the digestive system
+HP:0001399,Hepatic failure
+HP:0001574,Abnormality of the integument
+HP:0000992,Cutaneous photosensitivity
+Total,
+Export for OMIM:254800,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001260,Dysarthria
+HP:0001268,Mental deterioration
+HP:0002069,Generalized tonic-clonic seizures
+HP:0001336,Myoclonus
+HP:0001251,Ataxia
+HP:0002121,Absence seizures
+Total,
+Export for OMIM:254900,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001260,Dysarthria
+HP:0002080,Intention tremor
+HP:0001336,Myoclonus
+HP:0002015,Dysphagia
+HP:0002066,Gait ataxia
+HP:0001272,Cerebellar atrophy
+HP:0002174,Postural tremor
+HP:0002197,Generalized seizures
+HP:0000119,Abnormality of the genitourinary system
+HP:0000100,Nephrotic syndrome
+HP:0000083,Renal insufficiency
+HP:0000093,Proteinuria
+HP:0000112,Nephropathy
+HP:0000097,Focal segmental glomerulosclerosis
+HP:0025031,Abnormality of the digestive system
+HP:0002015,Dysphagia
+HP:0001871,Abnormality of blood and blood-forming tissues
+HP:0001873,Thrombocytopenia
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0000093,Proteinuria
+Total,
+Export for OMIM:266100,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002123,Generalized myoclonic seizures
+HP:0000750,Delayed speech and language development
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002133,Status epilepticus
+HP:0001249,Intellectual disability
+HP:0001263,Global developmental delay
+HP:0002086,Abnormality of the respiratory system
+HP:0002643,Neonatal respiratory distress
+HP:0002098,Respiratory distress
+HP:0001197,Abnormality of prenatal development or birth
+HP:0025116,Fetal distress
+HP:0001557,Prenatal movement abnormality
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+Total,
+Export for OMIM:269720,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001276,Hypertonia
+HP:0002372,Normal interictal EEG
+HP:0002069,Generalized tonic-clonic seizures
+HP:0003011,Abnormality of the musculature
+HP:0001276,Hypertonia
+Total,
+Export for OMIM:300088,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007359,Focal seizures
+HP:0001249,Intellectual disability
+HP:0000709,Psychosis
+HP:0002123,Generalized myoclonic seizures
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002121,Absence seizures
+HP:0002133,Status epilepticus
+HP:0010819,Atonic seizures
+HP:0000718,Aggressive behavior
+HP:0001263,Global developmental delay
+Total,
+Export for OMIM:300643,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0011098,Speech apraxia
+HP:0007095,Frontoparietal polymicrogyria
+HP:0001256,"Intellectual disability, mild"
+HP:0007359,Focal seizures
+Total,
+Export for OMIM:310370,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002123,Generalized myoclonic seizures
+Total,
+Export for OMIM:600131,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002392,EEG with polyspike wave complexes
+HP:0010849,EEG with spike-wave complexes (>3.5 Hz)
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002121,Absence seizures
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:600512,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007334,Generalized tonic-clonic seizures with focal onset
+HP:0011158,Auditory auras
+HP:0002349,Focal seizures without impairment of consciousness or awareness
+HP:0002384,Focal seizures with impairment of consciousness or awareness
+Total,
+Export for OMIM:600513,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007359,Focal seizures
+HP:0001249,Intellectual disability
+Total,
+Export for OMIM:600669,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0010849,EEG with spike-wave complexes (>3.5 Hz)
+HP:0002123,Generalized myoclonic seizures
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002121,Absence seizures
+Total,
+Export for OMIM:601068,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0010852,EEG with photoparoxysmal response
+HP:0001249,Intellectual disability
+HP:0001326,EEG with irregular generalized spike and wave complexes
+HP:0001337,Tremor
+HP:0001312,Giant somatosensory evoked potentials
+HP:0002123,Generalized myoclonic seizures
+HP:0002069,Generalized tonic-clonic seizures
+HP:0001340,Enhancement of the C-reflex
+HP:0001351,Jerk-locked premyoclonus spikes
+Total,
+Export for OMIM:604403,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0006813,Hemiclonic seizures
+HP:0002123,Generalized myoclonic seizures
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002121,Absence seizures
+HP:0010819,Atonic seizures
+HP:0002373,Febrile seizures
+HP:0010818,Generalized tonic seizures
+Total,
+Export for OMIM:604827,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001336,Myoclonus
+HP:0002069,Generalized tonic-clonic seizures
+Total,
+Export for OMIM:605021,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001260,Dysarthria
+HP:0002123,Generalized myoclonic seizures
+HP:0002069,Generalized tonic-clonic seizures
+HP:0007359,Focal seizures
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:607631,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007193,Generalized tonic-clonic seizures on awakening
+HP:0010849,EEG with spike-wave complexes (>3.5 Hz)
+HP:0002123,Generalized myoclonic seizures
+HP:0002121,Absence seizures
+Total,
+Export for OMIM:607876,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0010852,EEG with photoparoxysmal response
+HP:0000643,Blepharospasm
+HP:0001336,Myoclonus
+HP:0100543,Cognitive impairment
+HP:0001249,Intellectual disability
+HP:0001326,EEG with irregular generalized spike and wave complexes
+HP:0001337,Tremor
+HP:0001312,Giant somatosensory evoked potentials
+HP:0002069,Generalized tonic-clonic seizures
+HP:0001340,Enhancement of the C-reflex
+HP:0001351,Jerk-locked premyoclonus spikes
+HP:0000152,Abnormality of head or neck
+HP:0000643,Blepharospasm
+Total,
+Export for OMIM:608105,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002268,Paroxysmal dystonia
+HP:0002356,Writer's cramp
+HP:0007104,Prolonged somatosensory evoked potentials
+HP:0007332,Hemifacial seizures
+HP:0000478,Abnormality of the eye
+HP:0000666,Horizontal nystagmus
+Total,
+Export for OMIM:608762,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0002069,Generalized tonic-clonic seizures
+HP:0001574,Abnormality of the integument
+HP:0000992,Cutaneous photosensitivity
+Total,
+Export for OMIM:609800,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:610042,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0000735,Impaired social interactions
+HP:0002194,Delayed gross motor development
+HP:0002539,Cortical dysplasia
+HP:0000752,Hyperactivity
+HP:0001249,Intellectual disability
+HP:0001315,Reduced tendon reflexes
+HP:0007064,Progressive language deterioration
+HP:0001250,Seizures
+Total,
+Export for OMIM:611087,
+HPO id,HPO label
+HP:0000152,Abnormality of head or neck
+HP:0000316,Hypertelorism
+HP:0000215,Thick upper lip vermilion
+HP:0000276,Long face
+HP:0000154,Wide mouth
+HP:0000297,Facial hypotonia
+HP:0000179,Thick lower lip vermilion
+HP:0000256,Macrocephaly
+HP:0002003,Large forehead
+HP:0000431,Wide nasal bridge
+HP:0012371,Hyperplasia of midface
+HP:0000194,Open mouth
+HP:0000707,Abnormality of the nervous system
+HP:0002119,Ventriculomegaly
+HP:0002446,Astrocytosis
+HP:0001249,Intellectual disability
+HP:0001355,Megalencephaly
+HP:0002355,Difficulty walking
+HP:0001250,Seizures
+HP:0002540,Inability to walk
+HP:0001263,Global developmental delay
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+HP:0000297,Facial hypotonia
+HP:0002355,Difficulty walking
+HP:0000924,Abnormality of the skeletal system
+HP:0000256,Macrocephaly
+HP:0001388,Joint laxity
+HP:0000478,Abnormality of the eye
+HP:0000316,Hypertelorism
+HP:0000486,Strabismus
+HP:0001197,Abnormality of prenatal development or birth
+HP:0001622,Premature birth
+HP:0001561,Polyhydramnios
+HP:0000119,Abnormality of the genitourinary system
+HP:0000121,Nephrocalcinosis
+HP:0001626,Abnormality of the cardiovascular system
+HP:0001631,Atrial septal defect
+HP:0025031,Abnormality of the digestive system
+HP:0011968,Feeding difficulties
+HP:0000818,Abnormality of the endocrine system
+HP:0000873,Diabetes insipidus
+Total,
+Export for OMIM:611277,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0007359,Focal seizures
+HP:0002121,Absence seizures
+HP:0010819,Atonic seizures
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:611630,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002349,Focal seizures without impairment of consciousness or awareness
+HP:0012005,Deja vu
+HP:0002384,Focal seizures with impairment of consciousness or awareness
+HP:0000598,Abnormality of the ear
+HP:0002321,Vertigo
+Total,
+Export for OMIM:613339,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002329,Drowsiness
+HP:0002373,Febrile seizures
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+Total,
+Export for OMIM:613863,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0007359,Focal seizures
+HP:0002121,Absence seizures
+HP:0010819,Atonic seizures
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:614018,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001260,Dysarthria
+HP:0001336,Myoclonus
+HP:0001337,Tremor
+HP:0002355,Difficulty walking
+HP:0001251,Ataxia
+HP:0001284,Areflexia
+HP:0002121,Absence seizures
+HP:0010819,Atonic seizures
+HP:0000924,Abnormality of the skeletal system
+HP:0002650,Scoliosis
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0003236,Elevated serum creatine phosphokinase
+HP:0003011,Abnormality of the musculature
+HP:0002355,Difficulty walking
+Total,
+Export for OMIM:614280,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002121,Absence seizures
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:614847,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001249,Intellectual disability
+HP:0002069,Generalized tonic-clonic seizures
+Total,
+Export for OMIM:615005,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007359,Focal seizures
+HP:0100543,Cognitive impairment
+HP:0001249,Intellectual disability
+HP:0000709,Psychosis
+HP:0000716,Depressivity
+HP:0002133,Status epilepticus
+HP:0012075,Personality disorder
+HP:0000718,Aggressive behavior
+Total,
+Export for OMIM:615400,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0001337,Tremor
+HP:0002069,Generalized tonic-clonic seizures
+Total,
+Export for OMIM:616172,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002121,Absence seizures
+HP:0010819,Atonic seizures
+HP:0001263,Global developmental delay
+HP:0002373,Febrile seizures
+HP:0002384,Focal seizures with impairment of consciousness or awareness
+Total,
+Export for OMIM:616230,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0000726,Dementia
+HP:0001249,Intellectual disability
+HP:0002069,Generalized tonic-clonic seizures
+Total,
+Export for OMIM:616421,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0025097,Eyelid myoclonus
+HP:0001251,Ataxia
+HP:0002121,Absence seizures
+HP:0001249,Intellectual disability
+HP:0001337,Tremor
+HP:0000924,Abnormality of the skeletal system
+HP:0002650,Scoliosis
+Total,
+Export for OMIM:616540,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001336,Myoclonus
+HP:0002066,Gait ataxia
+HP:0002119,Ventriculomegaly
+HP:0002133,Status epilepticus
+HP:0001263,Global developmental delay
+HP:0000924,Abnormality of the skeletal system
+HP:0002650,Scoliosis
+HP:0009778,Short thumb
+HP:0040064,Abnormality of limbs
+HP:0009778,Short thumb
+HP:0000152,Abnormality of head or neck
+HP:0000171,Microglossia
+HP:0003011,Abnormality of the musculature
+HP:0003700,Generalized amyotrophy
+Total,
+Export for OMIM:616577,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0010864,"Intellectual disability, severe"
+HP:0003429,CNS hypomyelination
+HP:0001249,Intellectual disability
+HP:0001257,Spasticity
+HP:0002079,Hypoplasia of the corpus callosum
+HP:0001344,Absent speech
+HP:0001250,Seizures
+HP:0002353,EEG abnormality
+HP:0002509,Limb hypertonia
+HP:0000252,Microcephaly
+HP:0001263,Global developmental delay
+HP:0000478,Abnormality of the eye
+HP:0100704,Cortical visual impairment
+HP:0000639,Nystagmus
+HP:0000486,Strabismus
+HP:0003011,Abnormality of the musculature
+HP:0008936,Muscular hypotonia of the trunk
+HP:0002509,Limb hypertonia
+HP:0001257,Spasticity
+HP:0000924,Abnormality of the skeletal system
+HP:0002650,Scoliosis
+HP:0000252,Microcephaly
+HP:0001507,Growth abnormality
+HP:0001508,Failure to thrive
+HP:0040064,Abnormality of limbs
+HP:0002509,Limb hypertonia
+HP:0002715,Abnormality of the immune system
+HP:0002721,Immunodeficiency
+HP:0025031,Abnormality of the digestive system
+HP:0011968,Feeding difficulties
+HP:0000598,Abnormality of the ear
+HP:0000407,Sensorineural hearing impairment
+HP:0001871,Abnormality of blood and blood-forming tissues
+HP:0001873,Thrombocytopenia
+HP:0000152,Abnormality of head or neck
+HP:0000252,Microcephaly
+Total,
+Export for OMIM:616640,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002073,Progressive cerebellar ataxia
+HP:0001260,Dysarthria
+HP:0011999,Paranoia
+HP:0000709,Psychosis
+HP:0000738,Hallucinations
+HP:0000726,Dementia
+HP:0001336,Myoclonus
+HP:0001347,Hyperreflexia
+HP:0002510,Spastic tetraplegia
+HP:0002123,Generalized myoclonic seizures
+HP:0002497,Spastic ataxia
+HP:0002300,Mutism
+HP:0100318,Lafora bodies
+HP:0000119,Abnormality of the genitourinary system
+HP:0000020,Urinary incontinence
+HP:0025142,Constitutional symptom
+HP:0000020,Urinary incontinence
+HP:0003011,Abnormality of the musculature
+HP:0002510,Spastic tetraplegia
+Total,
+Export for OMIM:617116,
+HPO id,HPO label
+Total,
+Export for OMIM:617118,
+HPO id,HPO label
+Total,
+Export for OMIM:617290,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0005484,Postnatal microcephaly
+HP:0001336,Myoclonus
+HP:0002119,Ventriculomegaly
+HP:0001249,Intellectual disability
+HP:0002169,Clonus
+HP:0001276,Hypertonia
+HP:0012444,Brain atrophy
+HP:0002465,Poor speech
+HP:0001263,Global developmental delay
+HP:0002086,Abnormality of the respiratory system
+HP:0002104,Apnea
+HP:0002093,Respiratory insufficiency
+HP:0000152,Abnormality of head or neck
+HP:0005484,Postnatal microcephaly
+HP:0001999,Abnormal facial shape
+HP:0000924,Abnormality of the skeletal system
+HP:0005484,Postnatal microcephaly
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0001942,Metabolic acidosis
+HP:0003011,Abnormality of the musculature
+HP:0001276,Hypertonia
+Total,
+Export for ORPHA:1008,
+HPO id,HPO label
+HP:0001574,Abnormality of the integument
+HP:0002209,Sparse scalp hair
+HP:0002289,Alopecia universalis
+HP:0000995,Melanocytic nevus
+HP:0002231,Sparse body hair
+HP:0000499,Abnormality of the eyelashes
+HP:0000707,Abnormality of the nervous system
+HP:0002354,Memory impairment
+HP:0001256,"Intellectual disability, mild"
+HP:0001250,Seizures
+HP:0002353,EEG abnormality
+HP:0000238,Hydrocephalus
+HP:0000152,Abnormality of head or neck
+HP:0000704,Periodontitis
+HP:0002209,Sparse scalp hair
+HP:0000499,Abnormality of the eyelashes
+HP:0000230,Gingivitis
+HP:0002715,Abnormality of the immune system
+HP:0000704,Periodontitis
+HP:0000598,Abnormality of the ear
+HP:0000365,Hearing impairment
+Total,
+Export for ORPHA:163703,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001254,Lethargy
+HP:0002376,Developmental regression
+HP:0007359,Focal seizures
+HP:0002353,EEG abnormality
+HP:0000708,Behavioral abnormality
+HP:0002315,Headache
+HP:0002715,Abnormality of the immune system
+HP:0000246,Sinusitis
+HP:0002960,Autoimmunity
+HP:0000924,Abnormality of the skeletal system
+HP:0000246,Sinusitis
+HP:0025142,Constitutional symptom
+HP:0003326,Myalgia
+HP:0002086,Abnormality of the respiratory system
+HP:0012735,Cough
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0001945,Fever
+HP:0000152,Abnormality of head or neck
+HP:0000246,Sinusitis
+Total,
+Export for ORPHA:1858,
+HPO id,HPO label
+HP:0000924,Abnormality of the skeletal system
+HP:0002866,Hypoplastic iliac wing
+HP:0000303,Mandibular prognathia
+HP:0001156,Brachydactyly
+HP:0002652,Skeletal dysplasia
+HP:0002808,Kyphosis
+HP:0009882,Short distal phalanx of finger
+HP:0002650,Scoliosis
+HP:0001385,Hip dysplasia
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0002353,EEG abnormality
+HP:0001249,Intellectual disability
+HP:0040064,Abnormality of limbs
+HP:0001156,Brachydactyly
+HP:0009882,Short distal phalanx of finger
+HP:0000152,Abnormality of head or neck
+HP:0000689,Dental malocclusion
+HP:0000303,Mandibular prognathia
+HP:0001507,Growth abnormality
+HP:0004322,Short stature
+HP:0002715,Abnormality of the immune system
+HP:0003212,Increased IgE level
+HP:0001871,Abnormality of blood and blood-forming tissues
+HP:0003212,Increased IgE level
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0003212,Increased IgE level
+Total,
+Export for ORPHA:1942,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0012658,Abnormal brain FDG positron emission tomography
+HP:0001260,Dysarthria
+HP:0011203,EEG with abnormally slow frequencies
+HP:0200134,Epileptic encephalopathy
+HP:0007207,Photosensitive tonic-clonic seizures
+HP:0000718,Aggressive behavior
+HP:0000729,Autistic behavior
+HP:0001336,Myoclonus
+HP:0011170,Myoclonic atonic seizures
+HP:0010849,EEG with spike-wave complexes (>3.5 Hz)
+HP:0001268,Mental deterioration
+HP:0002376,Developmental regression
+HP:0100710,Impulsivity
+HP:0001251,Ataxia
+HP:0002121,Absence seizures
+HP:0002133,Status epilepticus
+HP:0010819,Atonic seizures
+HP:0001263,Global developmental delay
+HP:0002373,Febrile seizures
+Total,
+Export for ORPHA:1948,
+HPO id,HPO label
+HP:0000924,Abnormality of the skeletal system
+HP:0002650,Scoliosis
+HP:0002750,Delayed skeletal maturation
+HP:0000252,Microcephaly
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0000252,Microcephaly
+HP:0001249,Intellectual disability
+HP:0000152,Abnormality of head or neck
+HP:0000252,Microcephaly
+HP:0000280,Coarse facial features
+HP:0001574,Abnormality of the integument
+HP:0001007,Hirsutism
+Total,
+Export for ORPHA:352582,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001260,Dysarthria
+HP:0010862,Delayed fine motor development
+HP:0007018,Attention deficit hyperactivity disorder
+HP:0007207,Photosensitive tonic-clonic seizures
+HP:0000718,Aggressive behavior
+HP:0000737,Irritability
+HP:0001336,Myoclonus
+HP:0001326,EEG with irregular generalized spike and wave complexes
+HP:0001268,Mental deterioration
+HP:0002123,Generalized myoclonic seizures
+HP:0002376,Developmental regression
+HP:0001256,"Intellectual disability, mild"
+HP:0002121,Absence seizures
+HP:0002463,Language impairment
+HP:0001263,Global developmental delay
+HP:0002373,Febrile seizures
+HP:0000478,Abnormality of the eye
+HP:0001112,Leber optic atrophy
+Total,
+Export for ORPHA:370943,
+HPO id,HPO label
+HP:0000924,Abnormality of the skeletal system
+HP:0002827,Hip dislocation
+HP:0001765,Hammertoe
+HP:0002650,Scoliosis
+HP:0001385,Hip dysplasia
+HP:0004976,Knee dislocation
+HP:0000707,Abnormality of the nervous system
+HP:0010864,"Intellectual disability, severe"
+HP:0001256,"Intellectual disability, mild"
+HP:0002121,Absence seizures
+HP:0002342,"Intellectual disability, moderate"
+HP:0000729,Autistic behavior
+HP:0040064,Abnormality of limbs
+HP:0001765,Hammertoe
+HP:0002827,Hip dislocation
+HP:0004976,Knee dislocation
+Total,
+Export for ORPHA:85294,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001328,Specific learning disability
+HP:0001250,Seizures
+HP:0000718,Aggressive behavior
+HP:0000924,Abnormality of the skeletal system
+HP:0000256,Macrocephaly
+HP:0000152,Abnormality of head or neck
+HP:0000256,Macrocephaly
+Total,
+Export for ORPHA:86814,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001336,Myoclonus
+HP:0007359,Focal seizures
+HP:0001249,Intellectual disability
+HP:0002315,Headache
+HP:0002378,Hand tremor
+HP:0002353,EEG abnormality
+HP:0002197,Generalized seizures
+HP:0000478,Abnormality of the eye
+HP:0100576,Amaurosis fugax
+Total,
+Export for OMIM:104130,
+HPO id,HPO label
+HP:0001574,Abnormality of the integument
+HP:0005597,Congenital alopecia totalis
+HP:0002289,Alopecia universalis
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0001256,"Intellectual disability, mild"
+HP:0002715,Abnormality of the immune system
+HP:0000704,Periodontitis
+HP:0000152,Abnormality of head or neck
+HP:0000704,Periodontitis
+Total,
+Export for OMIM:117100,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007359,Focal seizures
+HP:0007334,Generalized tonic-clonic seizures with focal onset
+HP:0012557,EEG with centrotemporal focal spike waves
+Total,
+Export for OMIM:132090,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0002353,EEG abnormality
+Total,
+Export for OMIM:208700,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0000726,Dementia
+HP:0001271,Polyneuropathy
+HP:0002123,Generalized myoclonic seizures
+HP:0001336,Myoclonus
+HP:0001251,Ataxia
+HP:0001250,Seizures
+Total,
+Export for OMIM:220300,
+HPO id,HPO label
+HP:0000598,Abnormality of the ear
+HP:0000365,Hearing impairment
+HP:0000707,Abnormality of the nervous system
+HP:0002123,Generalized myoclonic seizures
+Total,
+Export for OMIM:226750,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0010864,"Intellectual disability, severe"
+HP:0200134,Epileptic encephalopathy
+HP:0000726,Dementia
+HP:0002119,Ventriculomegaly
+HP:0001321,Cerebellar hypoplasia
+HP:0002059,Cerebral atrophy
+HP:0002521,Hypsarrhythmia
+HP:0001257,Spasticity
+HP:0002376,Developmental regression
+HP:0001251,Ataxia
+HP:0001250,Seizures
+HP:0001263,Global developmental delay
+HP:0000924,Abnormality of the skeletal system
+HP:0006297,Hypoplasia of dental enamel
+HP:0000705,Amelogenesis imperfecta
+HP:0003549,Abnormality of connective tissue
+HP:0006297,Hypoplasia of dental enamel
+HP:0000705,Amelogenesis imperfecta
+HP:0000152,Abnormality of head or neck
+HP:0006297,Hypoplasia of dental enamel
+HP:0000705,Amelogenesis imperfecta
+HP:0003011,Abnormality of the musculature
+HP:0001257,Spasticity
+Total,
+Export for OMIM:226810,
+HPO id,HPO label
+HP:0002715,Abnormality of the immune system
+HP:0002608,Celiac disease
+HP:0025031,Abnormality of the digestive system
+HP:0002608,Celiac disease
+Total,
+Export for OMIM:226850,
+HPO id,HPO label
+HP:0000152,Abnormality of head or neck
+HP:0001999,Abnormal facial shape
+HP:0000664,Synophrys
+HP:0000524,Conjunctival telangiectasia
+HP:0001574,Abnormality of the integument
+HP:0000664,Synophrys
+HP:0000524,Conjunctival telangiectasia
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0001249,Intellectual disability
+HP:0001626,Abnormality of the cardiovascular system
+HP:0000524,Conjunctival telangiectasia
+HP:0000478,Abnormality of the eye
+HP:0000524,Conjunctival telangiectasia
+Total,
+Export for OMIM:267740,
+HPO id,HPO label
+HP:0000478,Abnormality of the eye
+HP:0000546,Retinal degeneration
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+Total,
+Export for OMIM:300491,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001328,Specific learning disability
+HP:0007359,Focal seizures
+HP:0000718,Aggressive behavior
+HP:0000729,Autistic behavior
+HP:0000924,Abnormality of the skeletal system
+HP:0000256,Macrocephaly
+HP:0000152,Abnormality of head or neck
+HP:0000256,Macrocephaly
+Total,
+Export for OMIM:300607,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0010864,"Intellectual disability, severe"
+HP:0001276,Hypertonia
+HP:0200134,Epileptic encephalopathy
+HP:0006887,"Intellectual disability, progressive"
+HP:0002267,Exaggerated startle response
+HP:0001250,Seizures
+HP:0003011,Abnormality of the musculature
+HP:0001276,Hypertonia
+Total,
+Export for OMIM:545000,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001257,Spasticity
+HP:0002123,Generalized myoclonic seizures
+HP:0001336,Myoclonus
+HP:0001251,Ataxia
+HP:0001250,Seizures
+HP:0003011,Abnormality of the musculature
+HP:0001257,Spasticity
+HP:0001324,Muscle weakness
+HP:0003200,Ragged-red muscle fibers
+HP:0003198,Myopathy
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0002151,Increased serum lactate
+HP:0003542,Increased serum pyruvate
+HP:0000598,Abnormality of the ear
+HP:0000407,Sensorineural hearing impairment
+Total,
+Export for OMIM:601352,
+HPO id,HPO label
+HP:0000924,Abnormality of the skeletal system
+HP:0002650,Scoliosis
+HP:0002750,Delayed skeletal maturation
+HP:0000252,Microcephaly
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0000252,Microcephaly
+HP:0001249,Intellectual disability
+HP:0000152,Abnormality of head or neck
+HP:0000252,Microcephaly
+HP:0000280,Coarse facial features
+HP:0001574,Abnormality of the integument
+HP:0001007,Hirsutism
+Total,
+Export for OMIM:603204,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0000716,Depressivity
+HP:0002133,Status epilepticus
+HP:0000718,Aggressive behavior
+Total,
+Export for OMIM:604233,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002121,Absence seizures
+HP:0010819,Atonic seizures
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:604364,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0001249,Intellectual disability
+HP:0000729,Autistic behavior
+Total,
+Export for OMIM:605375,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+Total,
+Export for OMIM:606176,
+HPO id,HPO label
+HP:0000152,Abnormality of head or neck
+HP:0000463,Anteverted nares
+HP:0003196,Short nose
+HP:0002714,Downturned corners of mouth
+HP:0000343,Long philtrum
+HP:0005487,Prominent metopic ridge
+HP:0000707,Abnormality of the nervous system
+HP:0002521,Hypsarrhythmia
+HP:0009830,Peripheral neuropathy
+HP:0001270,Motor delay
+HP:0001250,Seizures
+HP:0001263,Global developmental delay
+HP:0000924,Abnormality of the skeletal system
+HP:0030084,Clinodactyly
+HP:0005487,Prominent metopic ridge
+HP:0009466,Radial deviation of finger
+HP:0003121,Limb joint contracture
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0003074,Hyperglycemia
+HP:0000819,Diabetes mellitus
+HP:0001993,Ketoacidosis
+HP:0003011,Abnormality of the musculature
+HP:0008936,Muscular hypotonia of the trunk
+HP:0001324,Muscle weakness
+HP:0003121,Limb joint contracture
+HP:0001507,Growth abnormality
+HP:0001511,Intrauterine growth retardation
+HP:0001518,Small for gestational age
+HP:0040064,Abnormality of limbs
+HP:0030084,Clinodactyly
+HP:0009466,Radial deviation of finger
+HP:0000818,Abnormality of the endocrine system
+HP:0000819,Diabetes mellitus
+HP:0006279,Beta-cell dysfunction
+HP:0000478,Abnormality of the eye
+HP:0000508,Ptosis
+HP:0025031,Abnormality of the digestive system
+HP:0006279,Beta-cell dysfunction
+HP:0003549,Abnormality of connective tissue
+HP:0003121,Limb joint contracture
+Total,
+Export for OMIM:607208,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0005484,Postnatal microcephaly
+HP:0200134,Epileptic encephalopathy
+HP:0001270,Motor delay
+HP:0006813,Hemiclonic seizures
+HP:0002059,Cerebral atrophy
+HP:0001268,Mental deterioration
+HP:0002123,Generalized myoclonic seizures
+HP:0001251,Ataxia
+HP:0002121,Absence seizures
+HP:0002133,Status epilepticus
+HP:0001263,Global developmental delay
+HP:0002384,Focal seizures with impairment of consciousness or awareness
+HP:0000924,Abnormality of the skeletal system
+HP:0005484,Postnatal microcephaly
+HP:0000478,Abnormality of the eye
+HP:0100704,Cortical visual impairment
+HP:0000152,Abnormality of head or neck
+HP:0005484,Postnatal microcephaly
+Total,
+Export for OMIM:607628,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007193,Generalized tonic-clonic seizures on awakening
+HP:0002121,Absence seizures
+HP:0002123,Generalized myoclonic seizures
+Total,
+Export for OMIM:607681,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002392,EEG with polyspike wave complexes
+HP:0010849,EEG with spike-wave complexes (>3.5 Hz)
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002121,Absence seizures
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:607682,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002392,EEG with polyspike wave complexes
+HP:0007193,Generalized tonic-clonic seizures on awakening
+HP:0002121,Absence seizures
+HP:0007000,Morning myoclonic jerks
+Total,
+Export for OMIM:608096,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002349,Focal seizures without impairment of consciousness or awareness
+HP:0002373,Febrile seizures
+HP:0002384,Focal seizures with impairment of consciousness or awareness
+Total,
+Export for OMIM:608217,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+Total,
+Export for OMIM:609446,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0010849,EEG with spike-wave complexes (>3.5 Hz)
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002121,Absence seizures
+HP:0007166,Paroxysmal dyskinesia
+Total,
+Export for OMIM:610003,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002074,Increased neuronal autofluorescent lipopigment
+HP:0000737,Irritability
+HP:0000711,Restlessness
+HP:0001249,Intellectual disability
+HP:0002059,Cerebral atrophy
+HP:0002312,Clumsiness
+HP:0001268,Mental deterioration
+HP:0002069,Generalized tonic-clonic seizures
+HP:0001272,Cerebellar atrophy
+HP:0002353,EEG abnormality
+HP:0002384,Focal seizures with impairment of consciousness or awareness
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0003205,Curvilinear intracellular accumulation of autofluorescent lipopigment storage material
+Total,
+Export for OMIM:610353,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0000708,Behavioral abnormality
+Total,
+Export for OMIM:611364,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002123,Generalized myoclonic seizures
+HP:0002069,Generalized tonic-clonic seizures
+Total,
+Export for OMIM:611631,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0008765,Auditory hallucinations
+HP:0002349,Focal seizures without impairment of consciousness or awareness
+HP:0002077,Migraine with aura
+HP:0002384,Focal seizures with impairment of consciousness or awareness
+HP:0011165,Visual auras
+Total,
+Export for OMIM:611726,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001260,Dysarthria
+HP:0001249,Intellectual disability
+HP:0002059,Cerebral atrophy
+HP:0002079,Hypoplasia of the corpus callosum
+HP:0002123,Generalized myoclonic seizures
+HP:0001272,Cerebellar atrophy
+HP:0002078,Truncal ataxia
+HP:0000252,Microcephaly
+HP:0000478,Abnormality of the eye
+HP:0000572,Visual loss
+HP:0000648,Optic atrophy
+HP:0000924,Abnormality of the skeletal system
+HP:0000252,Microcephaly
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0003208,Fingerprint intracellular accumulation of autofluorescent lipopigment storage material
+HP:0000152,Abnormality of head or neck
+HP:0000252,Microcephaly
+Total,
+Export for OMIM:612126,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0100660,Dyskinesia
+HP:0000737,Irritability
+HP:0011972,Hypoglycorrhachia
+HP:0100543,Cognitive impairment
+HP:0001266,Choreoathetosis
+HP:0001332,Dystonia
+HP:0002059,Cerebral atrophy
+HP:0001251,Ataxia
+HP:0002353,EEG abnormality
+HP:0001263,Global developmental delay
+HP:0002076,Migraine
+HP:0001871,Abnormality of blood and blood-forming tissues
+HP:0001923,Reticulocytosis
+Total,
+Export for OMIM:612269,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002121,Absence seizures
+Total,
+Export for OMIM:612437,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001260,Dysarthria
+HP:0003390,Sensory axonal neuropathy
+HP:0001337,Tremor
+HP:0001310,Dysmetria
+HP:0002123,Generalized myoclonic seizures
+HP:0003487,Babinski sign
+HP:0010819,Atonic seizures
+Total,
+Export for OMIM:613060,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002123,Generalized myoclonic seizures
+HP:0002069,Generalized tonic-clonic seizures
+HP:0007359,Focal seizures
+HP:0002121,Absence seizures
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:613608,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0010852,EEG with photoparoxysmal response
+HP:0007359,Focal seizures
+HP:0001336,Myoclonus
+HP:0001337,Tremor
+HP:0001312,Giant somatosensory evoked potentials
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002355,Difficulty walking
+HP:0001340,Enhancement of the C-reflex
+HP:0001351,Jerk-locked premyoclonus spikes
+HP:0003011,Abnormality of the musculature
+HP:0002355,Difficulty walking
+Total,
+Export for OMIM:614322,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001260,Dysarthria
+HP:0002070,Limb ataxia
+HP:0001249,Intellectual disability
+HP:0001265,Hyporeflexia
+HP:0001257,Spasticity
+HP:0003487,Babinski sign
+HP:0002066,Gait ataxia
+HP:0001250,Seizures
+HP:0001272,Cerebellar atrophy
+HP:0000252,Microcephaly
+HP:0001263,Global developmental delay
+HP:0000478,Abnormality of the eye
+HP:0000546,Retinal degeneration
+HP:0000648,Optic atrophy
+HP:0000640,Gaze-evoked nystagmus
+HP:0001507,Growth abnormality
+HP:0001510,Growth delay
+HP:0000924,Abnormality of the skeletal system
+HP:0000252,Microcephaly
+HP:0003011,Abnormality of the musculature
+HP:0001257,Spasticity
+HP:0000152,Abnormality of head or neck
+HP:0000252,Microcephaly
+Total,
+Export for OMIM:614417,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+Total,
+Export for OMIM:614501,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0003429,CNS hypomyelination
+HP:0002119,Ventriculomegaly
+HP:0001265,Hyporeflexia
+HP:0002079,Hypoplasia of the corpus callosum
+HP:0001250,Seizures
+HP:0002353,EEG abnormality
+HP:0001263,Global developmental delay
+HP:0000152,Abnormality of head or neck
+HP:0012802,Broad jaw
+HP:0001999,Abnormal facial shape
+HP:0000154,Wide mouth
+HP:0000158,Macroglossia
+HP:0000414,Bulbous nose
+HP:0000924,Abnormality of the skeletal system
+HP:0011304,Broad thumb
+HP:0012802,Broad jaw
+HP:0004279,Short palm
+HP:0001182,Tapered finger
+HP:0040064,Abnormality of limbs
+HP:0011304,Broad thumb
+HP:0004279,Short palm
+HP:0001182,Tapered finger
+HP:0001626,Abnormality of the cardiovascular system
+HP:0001647,Bicuspid aortic valve
+HP:0001650,Aortic valve stenosis
+HP:0025031,Abnormality of the digestive system
+HP:0011968,Feeding difficulties
+HP:0001537,Umbilical hernia
+HP:0000478,Abnormality of the eye
+HP:0000666,Horizontal nystagmus
+HP:0000486,Strabismus
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+HP:0000158,Macroglossia
+HP:0003549,Abnormality of connective tissue
+HP:0001537,Umbilical hernia
+HP:0002086,Abnormality of the respiratory system
+HP:0001607,Subglottic stenosis
+Total,
+Export for OMIM:615127,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0001250,Seizures
+HP:0001340,Enhancement of the C-reflex
+HP:0001351,Jerk-locked premyoclonus spikes
+Total,
+Export for OMIM:616187,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001268,Mental deterioration
+HP:0001336,Myoclonus
+HP:0001251,Ataxia
+HP:0001250,Seizures
+HP:0001272,Cerebellar atrophy
+HP:0001337,Tremor
+Total,
+Export for OMIM:616436,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0011158,Auditory auras
+Total,
+Export for OMIM:616461,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002384,Focal seizures with impairment of consciousness or awareness
+Total,
+Export for OMIM:616685,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002123,Generalized myoclonic seizures
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002121,Absence seizures
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:617393,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0000737,Irritability
+HP:0000733,Stereotypy
+HP:0012448,Delayed myelination
+HP:0001249,Intellectual disability
+HP:0002059,Cerebral atrophy
+HP:0001257,Spasticity
+HP:0001344,Absent speech
+HP:0002355,Difficulty walking
+HP:0001250,Seizures
+HP:0000252,Microcephaly
+HP:0001263,Global developmental delay
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+HP:0001257,Spasticity
+HP:0002355,Difficulty walking
+HP:0002421,Poor head control
+HP:0001371,Flexion contracture
+HP:0000924,Abnormality of the skeletal system
+HP:0001371,Flexion contracture
+HP:0002650,Scoliosis
+HP:0000252,Microcephaly
+HP:0000152,Abnormality of head or neck
+HP:0000455,Broad nasal tip
+HP:0000252,Microcephaly
+HP:0001507,Growth abnormality
+HP:0001508,Failure to thrive
+HP:0025031,Abnormality of the digestive system
+HP:0011968,Feeding difficulties
+HP:0000478,Abnormality of the eye
+HP:0000518,Cataract
+HP:0003549,Abnormality of connective tissue
+HP:0001371,Flexion contracture
+Total,
+Export for ORPHA:1192,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007201,Cerebral artery atherosclerosis
+HP:0001327,Photomyoclonic seizures
+HP:0001337,Tremor
+HP:0001288,Gait disturbance
+HP:0001276,Hypertonia
+HP:0007360,Aplasia/Hypoplasia of the cerebellum
+HP:0002344,Progressive neurologic deterioration
+HP:0002120,Cerebral cortical atrophy
+HP:0001626,Abnormality of the cardiovascular system
+HP:0007201,Cerebral artery atherosclerosis
+HP:0000822,Hypertension
+HP:0001633,Abnormality of the mitral valve
+HP:0004929,Coronary atherosclerosis
+HP:0000119,Abnormality of the genitourinary system
+HP:0000100,Nephrotic syndrome
+HP:0000093,Proteinuria
+HP:0000112,Nephropathy
+HP:0000028,Cryptorchidism
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0003287,Abnormality of mitochondrial metabolism
+HP:0000093,Proteinuria
+HP:0100651,Type I diabetes mellitus
+HP:0000924,Abnormality of the skeletal system
+HP:0001376,Limitation of joint mobility
+HP:0003307,Hyperlordosis
+HP:0001507,Growth abnormality
+HP:0004322,Short stature
+HP:0000598,Abnormality of the ear
+HP:0000407,Sensorineural hearing impairment
+HP:0001871,Abnormality of blood and blood-forming tissues
+HP:0001903,Anemia
+HP:0000818,Abnormality of the endocrine system
+HP:0100651,Type I diabetes mellitus
+HP:0003011,Abnormality of the musculature
+HP:0001276,Hypertonia
+Total,
+Export for ORPHA:1941,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002392,EEG with polyspike wave complexes
+HP:0002069,Generalized tonic-clonic seizures
+HP:0001336,Myoclonus
+HP:0002121,Absence seizures
+HP:0002373,Febrile seizures
+HP:0000478,Abnormality of the eye
+HP:0000496,Abnormality of eye movement
+HP:0000152,Abnormality of head or neck
+HP:0000153,Abnormality of the mouth
+Total,
+Export for ORPHA:1947,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0000711,Restlessness
+HP:0001249,Intellectual disability
+HP:0002312,Clumsiness
+HP:0000709,Psychosis
+HP:0001268,Mental deterioration
+HP:0002376,Developmental regression
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002353,EEG abnormality
+HP:0002384,Focal seizures with impairment of consciousness or awareness
+HP:0000478,Abnormality of the eye
+HP:0000529,Progressive visual loss
+Total,
+Export for ORPHA:1949,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0100543,Cognitive impairment
+HP:0001276,Hypertonia
+HP:0001250,Seizures
+HP:0003011,Abnormality of the musculature
+HP:0001276,Hypertonia
+Total,
+Export for ORPHA:1951,
+HPO id,HPO label
+HP:0000152,Abnormality of head or neck
+HP:0000463,Anteverted nares
+HP:0000343,Long philtrum
+HP:0000524,Conjunctival telangiectasia
+HP:0000164,Abnormality of the dentition
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0001249,Intellectual disability
+HP:0001626,Abnormality of the cardiovascular system
+HP:0000524,Conjunctival telangiectasia
+HP:0000924,Abnormality of the skeletal system
+HP:0009237,Short 5th finger
+HP:0001507,Growth abnormality
+HP:0004322,Short stature
+HP:0040064,Abnormality of limbs
+HP:0009237,Short 5th finger
+HP:0002715,Abnormality of the immune system
+HP:0002720,IgA deficiency
+HP:0000478,Abnormality of the eye
+HP:0000524,Conjunctival telangiectasia
+HP:0001574,Abnormality of the integument
+HP:0000524,Conjunctival telangiectasia
+HP:0001871,Abnormality of blood and blood-forming tissues
+HP:0002720,IgA deficiency
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0002720,IgA deficiency
+Total,
+Export for ORPHA:2076,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0001249,Intellectual disability
+Total,
+Export for ORPHA:2590,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001288,Gait disturbance
+HP:0000726,Dementia
+HP:0002123,Generalized myoclonic seizures
+HP:0002167,Neurological speech impairment
+HP:0002353,EEG abnormality
+HP:0003011,Abnormality of the musculature
+HP:0008955,Progressive distal muscular atrophy
+HP:0003457,EMG abnormality
+Total,
+Export for ORPHA:2798,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0010864,"Intellectual disability, severe"
+HP:0001250,Seizures
+HP:0001263,Global developmental delay
+HP:0001197,Abnormality of prenatal development or birth
+HP:0001622,Premature birth
+Total,
+Export for ORPHA:3006,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0100022,Abnormality of movement
+HP:0002119,Ventriculomegaly
+HP:0001249,Intellectual disability
+HP:0002167,Neurological speech impairment
+HP:0002133,Status epilepticus
+HP:0002353,EEG abnormality
+HP:0001263,Global developmental delay
+HP:0002120,Cerebral cortical atrophy
+HP:0000478,Abnormality of the eye
+HP:0000486,Strabismus
+HP:0025031,Abnormality of the digestive system
+HP:0002240,Hepatomegaly
+HP:0003011,Abnormality of the musculature
+HP:0001252,Muscular hypotonia
+Total,
+Export for ORPHA:306,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0004372,Reduced consciousness/confusion
+HP:0100660,Dyskinesia
+HP:0001336,Myoclonus
+HP:0012534,Dysesthesia
+HP:0001266,Choreoathetosis
+HP:0001276,Hypertonia
+HP:0002357,Dysphasia
+HP:0002354,Memory impairment
+HP:0000738,Hallucinations
+HP:0001250,Seizures
+HP:0002076,Migraine
+HP:0000478,Abnormality of the eye
+HP:0000504,Abnormality of vision
+HP:0000490,Deeply set eye
+HP:0003011,Abnormality of the musculature
+HP:0001276,Hypertonia
+HP:0001252,Muscular hypotonia
+HP:0025031,Abnormality of the digestive system
+HP:0002017,Nausea and vomiting
+HP:0025142,Constitutional symptom
+HP:0012378,Fatigue
+HP:0000152,Abnormality of head or neck
+HP:0000490,Deeply set eye
+Total,
+Export for ORPHA:3175,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002301,Hemiplegia
+HP:0002063,Rigidity
+HP:0001257,Spasticity
+HP:0002133,Status epilepticus
+HP:0001249,Intellectual disability
+HP:0003011,Abnormality of the musculature
+HP:0003552,Muscle stiffness
+HP:0001257,Spasticity
+Total,
+Export for ORPHA:86909,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001260,Dysarthria
+HP:0010862,Delayed fine motor development
+HP:0007018,Attention deficit hyperactivity disorder
+HP:0007207,Photosensitive tonic-clonic seizures
+HP:0000718,Aggressive behavior
+HP:0000737,Irritability
+HP:0001336,Myoclonus
+HP:0001326,EEG with irregular generalized spike and wave complexes
+HP:0002301,Hemiplegia
+HP:0001268,Mental deterioration
+HP:0002123,Generalized myoclonic seizures
+HP:0002376,Developmental regression
+HP:0001256,"Intellectual disability, mild"
+HP:0002121,Absence seizures
+HP:0002275,Poor motor coordination
+HP:0002463,Language impairment
+HP:0001263,Global developmental delay
+HP:0002373,Febrile seizures
+HP:0007057,Poor hand-eye coordination
+HP:0000478,Abnormality of the eye
+HP:0001112,Leber optic atrophy
+Total,
+Export for ORPHA:94066,
+HPO id,HPO label
+HP:0000152,Abnormality of head or neck
+HP:0000316,Hypertelorism
+HP:0002714,Downturned corners of mouth
+HP:0001357,Plagiocephaly
+HP:0000303,Mandibular prognathia
+HP:0000322,Short philtrum
+HP:0002553,Highly arched eyebrow
+HP:0000272,Malar flattening
+HP:0000175,Cleft palate
+HP:0000924,Abnormality of the skeletal system
+HP:0010185,Aplasia/Hypoplasia of the distal phalanges of the toes
+HP:0009835,Aplasia/Hypoplasia of the distal phalanges of the hand
+HP:0000272,Malar flattening
+HP:0001357,Plagiocephaly
+HP:0000303,Mandibular prognathia
+HP:0040064,Abnormality of limbs
+HP:0009835,Aplasia/Hypoplasia of the distal phalanges of the hand
+HP:0010185,Aplasia/Hypoplasia of the distal phalanges of the toes
+HP:0001574,Abnormality of the integument
+HP:0001800,Hypoplastic toenails
+HP:0002553,Highly arched eyebrow
+HP:0000707,Abnormality of the nervous system
+HP:0010864,"Intellectual disability, severe"
+HP:0001250,Seizures
+HP:0001626,Abnormality of the cardiovascular system
+HP:0001629,Ventricular septal defect
+HP:0000478,Abnormality of the eye
+HP:0000316,Hypertelorism
+HP:0025031,Abnormality of the digestive system
+HP:0004397,Ectopic anus
+HP:0003011,Abnormality of the musculature
+HP:0001252,Muscular hypotonia
+Total,
+Export for OMIM:121200,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002411,Myokymia
+HP:0002266,Focal clonic seizures
+HP:0001270,Motor delay
+HP:0002069,Generalized tonic-clonic seizures
+HP:0001263,Global developmental delay
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:121210,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0010819,Atonic seizures
+HP:0002373,Febrile seizures
+HP:0010818,Generalized tonic seizures
+Total,
+Export for OMIM:125370,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007047,Atrophy of the dentate nucleus
+HP:0007256,Abnormal pyramidal signs
+HP:0000726,Dementia
+HP:0002072,Chorea
+HP:0001336,Myoclonus
+HP:0001266,Choreoathetosis
+HP:0001251,Ataxia
+HP:0001250,Seizures
+HP:0000478,Abnormality of the eye
+HP:0000639,Nystagmus
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0010878,Fetal cystic hygroma
+HP:0000152,Abnormality of head or neck
+HP:0010878,Fetal cystic hygroma
+HP:0001197,Abnormality of prenatal development or birth
+HP:0010878,Fetal cystic hygroma
+Total,
+Export for OMIM:220500,
+HPO id,HPO label
+HP:0000152,Abnormality of head or neck
+HP:0000218,High palate
+HP:0000448,Prominent nose
+HP:0002714,Downturned corners of mouth
+HP:0000280,Coarse facial features
+HP:0000414,Bulbous nose
+HP:0001305,Dandy-Walker malformation
+HP:0000463,Anteverted nares
+HP:0000232,Everted lower lip vermilion
+HP:0000343,Long philtrum
+HP:0000431,Wide nasal bridge
+HP:0000252,Microcephaly
+HP:0000707,Abnormality of the nervous system
+HP:0002059,Cerebral atrophy
+HP:0001265,Hyporeflexia
+HP:0001250,Seizures
+HP:0001305,Dandy-Walker malformation
+HP:0000252,Microcephaly
+HP:0001249,Intellectual disability
+HP:0000924,Abnormality of the skeletal system
+HP:0001156,Brachydactyly
+HP:0001199,Triphalangeal thumb
+HP:0009882,Short distal phalanx of finger
+HP:0001305,Dandy-Walker malformation
+HP:0000252,Microcephaly
+HP:0000478,Abnormality of the eye
+HP:0000648,Optic atrophy
+HP:0000618,Blindness
+HP:0011003,Severe Myopia
+HP:0000518,Cataract
+HP:0000598,Abnormality of the ear
+HP:0000407,Sensorineural hearing impairment
+HP:0008619,Bilateral sensorineural hearing impairment
+HP:0011476,Profound sensorineural hearing impairment
+HP:0000369,Low-set ears
+HP:0001574,Abnormality of the integument
+HP:0008404,Nail dystrophy
+HP:0001798,Anonychia
+HP:0000951,Abnormality of the skin
+HP:0002164,Nail dysplasia
+HP:0040064,Abnormality of limbs
+HP:0001156,Brachydactyly
+HP:0009882,Short distal phalanx of finger
+HP:0001199,Triphalangeal thumb
+HP:0000119,Abnormality of the genitourinary system
+HP:0000104,Renal agenesis
+HP:0000800,Cystic renal dysplasia
+HP:0001626,Abnormality of the cardiovascular system
+HP:0001627,Abnormal heart morphology
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+Total,
+Export for OMIM:239350,
+HPO id,HPO label
+HP:0025031,Abnormality of the digestive system
+HP:0002013,Vomiting
+HP:0002014,Diarrhea
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0001945,Fever
+HP:0002905,Hyperphosphatemia
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0000737,Irritability
+HP:0000119,Abnormality of the genitourinary system
+HP:0000103,Polyuria
+HP:0001608,Abnormality of the voice
+HP:0025430,High-pitched cry
+HP:0003011,Abnormality of the musculature
+HP:0001281,Tetany
+Total,
+Export for OMIM:245180,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0006932,Transient psychotic episodes
+HP:0001249,Intellectual disability
+Total,
+Export for OMIM:269720,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001276,Hypertonia
+HP:0002372,Normal interictal EEG
+HP:0002069,Generalized tonic-clonic seizures
+HP:0003011,Abnormality of the musculature
+HP:0001276,Hypertonia
+Total,
+Export for OMIM:300419,
+HPO id,HPO label
+HP:0000152,Abnormality of head or neck
+HP:0000629,Periorbital fullness
+HP:0000637,Long palpebral fissure
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0001249,Intellectual disability
+Total,
+Export for OMIM:300861,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0009830,Peripheral neuropathy
+HP:0002317,Unsteady gait
+HP:0002465,Poor speech
+HP:0001251,Ataxia
+HP:0001250,Seizures
+HP:0001272,Cerebellar atrophy
+HP:0002342,"Intellectual disability, moderate"
+HP:0001263,Global developmental delay
+HP:0000152,Abnormality of head or neck
+HP:0000316,Hypertelorism
+HP:0002057,Prominent glabella
+HP:0000664,Synophrys
+HP:0000303,Mandibular prognathia
+HP:0000924,Abnormality of the skeletal system
+HP:0002808,Kyphosis
+HP:0002650,Scoliosis
+HP:0000303,Mandibular prognathia
+HP:0002715,Abnormality of the immune system
+HP:0004315,IgG deficiency
+HP:0002720,IgA deficiency
+HP:0002850,IgM deficiency
+HP:0001574,Abnormality of the integument
+HP:0000954,Single transverse palmar crease
+HP:0000664,Synophrys
+HP:0001007,Hirsutism
+HP:0001871,Abnormality of blood and blood-forming tissues
+HP:0004315,IgG deficiency
+HP:0002720,IgA deficiency
+HP:0002850,IgM deficiency
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0004315,IgG deficiency
+HP:0002720,IgA deficiency
+HP:0002850,IgM deficiency
+HP:0040064,Abnormality of limbs
+HP:0000954,Single transverse palmar crease
+HP:0000478,Abnormality of the eye
+HP:0000316,Hypertelorism
+HP:0000598,Abnormality of the ear
+HP:0000411,Protruding ear
+Total,
+Export for OMIM:300868,
+HPO id,HPO label
+HP:0000152,Abnormality of head or neck
+HP:0005484,Postnatal microcephaly
+HP:0000160,Narrow mouth
+HP:0000280,Coarse facial features
+HP:0005280,Depressed nasal bridge
+HP:0000207,Triangular mouth
+HP:0000218,High palate
+HP:0000239,Large fontanelles
+HP:0000316,Hypertelorism
+HP:0002714,Downturned corners of mouth
+HP:0000687,Widely spaced teeth
+HP:0000269,Prominent occiput
+HP:0000347,Micrognathia
+HP:0000463,Anteverted nares
+HP:0000212,Gingival overgrowth
+HP:0000256,Macrocephaly
+HP:0000272,Malar flattening
+HP:0000470,Short neck
+HP:0000582,Upslanted palpebral fissure
+HP:0000691,Microdontia
+HP:0000707,Abnormality of the nervous system
+HP:0005484,Postnatal microcephaly
+HP:0200134,Epileptic encephalopathy
+HP:0012448,Delayed myelination
+HP:0011398,Central hypotonia
+HP:0002529,Neuronal loss in central nervous system
+HP:0001347,Hyperreflexia
+HP:0002521,Hypsarrhythmia
+HP:0001321,Cerebellar hypoplasia
+HP:0001331,Absent septum pellucidum
+HP:0002079,Hypoplasia of the corpus callosum
+HP:0002123,Generalized myoclonic seizures
+HP:0001344,Absent speech
+HP:0007361,Abnormality of the pons
+HP:0001341,Olfactory lobe agenesis
+HP:0002120,Cerebral cortical atrophy
+HP:0000924,Abnormality of the skeletal system
+HP:0005484,Postnatal microcephaly
+HP:0000239,Large fontanelles
+HP:0000269,Prominent occiput
+HP:0000347,Micrognathia
+HP:0000256,Macrocephaly
+HP:0000272,Malar flattening
+HP:0000470,Short neck
+HP:0001371,Flexion contracture
+HP:0000119,Abnormality of the genitourinary system
+HP:0000081,Duplicated collecting system
+HP:0000054,Micropenis
+HP:0000076,Vesicoureteral reflux
+HP:0001507,Growth abnormality
+HP:0001548,Overgrowth
+HP:0003517,Birth length greater than 97th percentile
+HP:0001520,Large for gestational age
+HP:0001574,Abnormality of the integument
+HP:0001051,Seborrheic dermatitis
+HP:0008064,Ichthyosis
+HP:0001792,Small nail
+HP:0003011,Abnormality of the musculature
+HP:0008936,Muscular hypotonia of the trunk
+HP:0001371,Flexion contracture
+HP:0011398,Central hypotonia
+HP:0025031,Abnormality of the digestive system
+HP:0001394,Cirrhosis
+HP:0002240,Hepatomegaly
+HP:0000478,Abnormality of the eye
+HP:0100704,Cortical visual impairment
+HP:0000316,Hypertelorism
+HP:0000598,Abnormality of the ear
+HP:0000396,Overfolded helix
+HP:0000365,Hearing impairment
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0003155,Elevated alkaline phosphatase
+HP:0001626,Abnormality of the cardiovascular system
+HP:0001631,Atrial septal defect
+HP:0002715,Abnormality of the immune system
+HP:0001051,Seborrheic dermatitis
+HP:0003549,Abnormality of connective tissue
+HP:0001371,Flexion contracture
+HP:0001197,Abnormality of prenatal development or birth
+HP:0001561,Polyhydramnios
+Total,
+Export for OMIM:309510,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0004373,Focal dystonia
+HP:0001260,Dysarthria
+HP:0002061,Lower limb spasticity
+HP:0001249,Intellectual disability
+HP:0000750,Delayed speech and language development
+HP:0002451,Limb dystonia
+HP:0001250,Seizures
+HP:0002353,EEG abnormality
+HP:0003011,Abnormality of the musculature
+HP:0001371,Flexion contracture
+HP:0002061,Lower limb spasticity
+HP:0000924,Abnormality of the skeletal system
+HP:0001371,Flexion contracture
+HP:0003549,Abnormality of connective tissue
+HP:0001371,Flexion contracture
+HP:0000152,Abnormality of head or neck
+HP:0000325,Triangular face
+Total,
+Export for OMIM:309555,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001257,Spasticity
+HP:0001250,Seizures
+HP:0000252,Microcephaly
+HP:0001249,Intellectual disability
+HP:0000478,Abnormality of the eye
+HP:0000618,Blindness
+HP:0001141,Severe visual impairment
+HP:0000648,Optic atrophy
+HP:0000924,Abnormality of the skeletal system
+HP:0005193,Restricted large joint movement
+HP:0000252,Microcephaly
+HP:0000598,Abnormality of the ear
+HP:0000365,Hearing impairment
+HP:0003011,Abnormality of the musculature
+HP:0001257,Spasticity
+HP:0000152,Abnormality of head or neck
+HP:0000252,Microcephaly
+Total,
+Export for OMIM:600176,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007069,Profound static encephalopathy
+HP:0001302,Pachygyria
+HP:0001249,Intellectual disability
+HP:0007270,Atypical absence seizures
+HP:0002069,Generalized tonic-clonic seizures
+HP:0100702,Arachnoid cyst
+HP:0001263,Global developmental delay
+Total,
+Export for OMIM:601764,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007334,Generalized tonic-clonic seizures with focal onset
+HP:0007359,Focal seizures
+HP:0011146,Dialeptic seizures
+HP:0002372,Normal interictal EEG
+HP:0040168,"Focal seizures, afebril"
+HP:0001574,Abnormality of the integument
+HP:0000961,Cyanosis
+HP:0002086,Abnormality of the respiratory system
+HP:0000961,Cyanosis
+Total,
+Export for OMIM:602477,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0010819,Atonic seizures
+HP:0002373,Febrile seizures
+HP:0010818,Generalized tonic seizures
+Total,
+Export for OMIM:604233,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002121,Absence seizures
+HP:0010819,Atonic seizures
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:604352,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0010819,Atonic seizures
+HP:0002373,Febrile seizures
+HP:0010818,Generalized tonic seizures
+Total,
+Export for OMIM:604403,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0006813,Hemiclonic seizures
+HP:0002123,Generalized myoclonic seizures
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002121,Absence seizures
+HP:0010819,Atonic seizures
+HP:0002373,Febrile seizures
+HP:0010818,Generalized tonic seizures
+Total,
+Export for OMIM:605751,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0040168,"Focal seizures, afebril"
+HP:0002076,Migraine
+HP:0002197,Generalized seizures
+Total,
+Export for OMIM:607628,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007193,Generalized tonic-clonic seizures on awakening
+HP:0002121,Absence seizures
+HP:0002123,Generalized myoclonic seizures
+Total,
+Export for OMIM:607745,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007334,Generalized tonic-clonic seizures with focal onset
+HP:0007359,Focal seizures
+HP:0011146,Dialeptic seizures
+HP:0002372,Normal interictal EEG
+HP:0040168,"Focal seizures, afebril"
+HP:0001574,Abnormality of the integument
+HP:0000961,Cyanosis
+HP:0002086,Abnormality of the respiratory system
+HP:0000961,Cyanosis
+Total,
+Export for OMIM:609253,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0010819,Atonic seizures
+HP:0002373,Febrile seizures
+HP:0010818,Generalized tonic seizures
+Total,
+Export for OMIM:609255,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0010819,Atonic seizures
+HP:0002373,Febrile seizures
+HP:0010818,Generalized tonic seizures
+Total,
+Export for OMIM:609438,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0010864,"Intellectual disability, severe"
+HP:0006887,"Intellectual disability, progressive"
+HP:0002373,Febrile seizures
+HP:0000478,Abnormality of the eye
+HP:0000572,Visual loss
+HP:0000563,Keratoconus
+HP:0001626,Abnormality of the cardiovascular system
+HP:0012723,Sinoatrial block
+Total,
+Export for OMIM:609800,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:611277,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0007359,Focal seizures
+HP:0002121,Absence seizures
+HP:0010819,Atonic seizures
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:612780,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007267,Chronic axonal neuropathy
+HP:0002080,Intention tremor
+HP:0030083,Salt craving
+HP:0001249,Intellectual disability
+HP:0007182,Peripheral hypomyelination
+HP:0000750,Delayed speech and language development
+HP:0001250,Seizures
+HP:0001272,Cerebellar atrophy
+HP:0001959,Polydipsia
+HP:0002075,Dysdiadochokinesis
+HP:0001263,Global developmental delay
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0012606,Renal sodium wasting
+HP:0002900,Hypokalemia
+HP:0000128,Renal potassium wasting
+HP:0000127,Renal salt wasting
+HP:0003127,Hypocalciuria
+HP:0001960,Hypokalemic metabolic alkalosis
+HP:0002917,Hypomagnesemia
+HP:0000119,Abnormality of the genitourinary system
+HP:0003127,Hypocalciuria
+HP:0012606,Renal sodium wasting
+HP:0000805,Enuresis
+HP:0000103,Polyuria
+HP:0000128,Renal potassium wasting
+HP:0000127,Renal salt wasting
+HP:0000818,Abnormality of the endocrine system
+HP:0000859,Hyperaldosteronism
+HP:0000848,Increased circulating renin level
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+HP:0001252,Muscular hypotonia
+HP:0001507,Growth abnormality
+HP:0004322,Short stature
+HP:0000598,Abnormality of the ear
+HP:0000407,Sensorineural hearing impairment
+Total,
+Export for OMIM:613060,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002123,Generalized myoclonic seizures
+HP:0002069,Generalized tonic-clonic seizures
+HP:0007359,Focal seizures
+HP:0002121,Absence seizures
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:613402,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0010864,"Intellectual disability, severe"
+HP:0200134,Epileptic encephalopathy
+HP:0001270,Motor delay
+HP:0009879,Cortical gyral simplification
+HP:0000752,Hyperactivity
+HP:0002119,Ventriculomegaly
+HP:0000253,Progressive microcephaly
+HP:0001265,Hyporeflexia
+HP:0002079,Hypoplasia of the corpus callosum
+HP:0001251,Ataxia
+HP:0001250,Seizures
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+HP:0003202,Skeletal muscle atrophy
+HP:0000924,Abnormality of the skeletal system
+HP:0000253,Progressive microcephaly
+HP:0000152,Abnormality of head or neck
+HP:0000253,Progressive microcephaly
+Total,
+Export for OMIM:613668,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0005484,Postnatal microcephaly
+HP:0002506,Diffuse cerebral atrophy
+HP:0002015,Dysphagia
+HP:0002169,Clonus
+HP:0002521,Hypsarrhythmia
+HP:0000253,Progressive microcephaly
+HP:0001257,Spasticity
+HP:0001250,Seizures
+HP:0001263,Global developmental delay
+HP:0000924,Abnormality of the skeletal system
+HP:0005484,Postnatal microcephaly
+HP:0000253,Progressive microcephaly
+HP:0025031,Abnormality of the digestive system
+HP:0011968,Feeding difficulties
+HP:0002015,Dysphagia
+HP:0000152,Abnormality of head or neck
+HP:0005484,Postnatal microcephaly
+HP:0000253,Progressive microcephaly
+HP:0001507,Growth abnormality
+HP:0001508,Failure to thrive
+HP:0003011,Abnormality of the musculature
+HP:0001257,Spasticity
+Total,
+Export for OMIM:613863,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0007359,Focal seizures
+HP:0002121,Absence seizures
+HP:0010819,Atonic seizures
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:614080,
+HPO id,HPO label
+HP:0000152,Abnormality of head or neck
+HP:0003196,Short nose
+HP:0000280,Coarse facial features
+HP:0005280,Depressed nasal bridge
+HP:0000218,High palate
+HP:0000316,Hypertelorism
+HP:0000347,Micrognathia
+HP:0002007,Frontal bossing
+HP:0000463,Anteverted nares
+HP:0000286,Epicanthus
+HP:0000341,Narrow forehead
+HP:0000256,Macrocephaly
+HP:0000343,Long philtrum
+HP:0000233,Thin vermilion border
+HP:0000194,Open mouth
+HP:0000175,Cleft palate
+HP:0000707,Abnormality of the nervous system
+HP:0001347,Hyperreflexia
+HP:0001337,Tremor
+HP:0001249,Intellectual disability
+HP:0001266,Choreoathetosis
+HP:0002059,Cerebral atrophy
+HP:0001265,Hyporeflexia
+HP:0001257,Spasticity
+HP:0001344,Absent speech
+HP:0001250,Seizures
+HP:0001272,Cerebellar atrophy
+HP:0001263,Global developmental delay
+HP:0000598,Abnormality of the ear
+HP:0000396,Overfolded helix
+HP:0002265,Large fleshy ears
+HP:0000378,Cupped ear
+HP:0000369,Low-set ears
+HP:0000358,Posteriorly rotated ears
+HP:0000924,Abnormality of the skeletal system
+HP:0000256,Macrocephaly
+HP:0009882,Short distal phalanx of finger
+HP:0000347,Micrognathia
+HP:0002007,Frontal bossing
+HP:0025031,Abnormality of the digestive system
+HP:0002023,Anal atresia
+HP:0002020,Gastroesophageal reflux
+HP:0002025,Anal stenosis
+HP:0000119,Abnormality of the genitourinary system
+HP:0000126,Hydronephrosis
+HP:0000034,Hydrocele testis
+HP:0000076,Vesicoureteral reflux
+HP:0000478,Abnormality of the eye
+HP:0000639,Nystagmus
+HP:0000646,Amblyopia
+HP:0000316,Hypertelorism
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+HP:0001257,Spasticity
+HP:0000776,Congenital diaphragmatic hernia
+HP:0001626,Abnormality of the cardiovascular system
+HP:0001643,Patent ductus arteriosus
+HP:0001631,Atrial septal defect
+HP:0040064,Abnormality of limbs
+HP:0009882,Short distal phalanx of finger
+HP:0003549,Abnormality of connective tissue
+HP:0000776,Congenital diaphragmatic hernia
+HP:0002086,Abnormality of the respiratory system
+HP:0002089,Pulmonary hypoplasia
+HP:0001197,Abnormality of prenatal development or birth
+HP:0001561,Polyhydramnios
+Total,
+Export for OMIM:614418,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002373,Febrile seizures
+Total,
+Export for OMIM:614462,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002360,Sleep disturbance
+HP:0012736,Profound global developmental delay
+HP:0001270,Motor delay
+HP:0001336,Myoclonus
+HP:0002415,Leukodystrophy
+HP:0002059,Cerebral atrophy
+HP:0002510,Spastic tetraplegia
+HP:0001298,Encephalopathy
+HP:0011344,Severe global developmental delay
+HP:0001250,Seizures
+HP:0000252,Microcephaly
+HP:0003011,Abnormality of the musculature
+HP:0002510,Spastic tetraplegia
+HP:0001290,Generalized hypotonia
+HP:0001371,Flexion contracture
+HP:0000924,Abnormality of the skeletal system
+HP:0001371,Flexion contracture
+HP:0000252,Microcephaly
+HP:0002086,Abnormality of the respiratory system
+HP:0002104,Apnea
+HP:0002093,Respiratory insufficiency
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0002151,Increased serum lactate
+HP:0003128,Lactic acidosis
+HP:0001626,Abnormality of the cardiovascular system
+HP:0001639,Hypertrophic cardiomyopathy
+HP:0001507,Growth abnormality
+HP:0001510,Growth delay
+HP:0025031,Abnormality of the digestive system
+HP:0011968,Feeding difficulties
+HP:0003549,Abnormality of connective tissue
+HP:0001371,Flexion contracture
+HP:0000152,Abnormality of head or neck
+HP:0000252,Microcephaly
+Total,
+Export for OMIM:614498,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002063,Rigidity
+HP:0031165,Multifocal seizures
+HP:0002171,Gliosis
+HP:0012448,Delayed myelination
+HP:0002529,Neuronal loss in central nervous system
+HP:0003739,Myoclonic spasms
+HP:0002459,Dysautonomia
+HP:0002169,Clonus
+HP:0000253,Progressive microcephaly
+HP:0001276,Hypertonia
+HP:0002123,Generalized myoclonic seizures
+HP:0003487,Babinski sign
+HP:0000252,Microcephaly
+HP:0001263,Global developmental delay
+HP:0000924,Abnormality of the skeletal system
+HP:0000253,Progressive microcephaly
+HP:0001371,Flexion contracture
+HP:0000252,Microcephaly
+HP:0000347,Micrognathia
+HP:0000152,Abnormality of head or neck
+HP:0000253,Progressive microcephaly
+HP:0000252,Microcephaly
+HP:0000347,Micrognathia
+HP:0003011,Abnormality of the musculature
+HP:0001276,Hypertonia
+HP:0001371,Flexion contracture
+HP:0001626,Abnormality of the cardiovascular system
+HP:0001662,Bradycardia
+HP:0000478,Abnormality of the eye
+HP:0000648,Optic atrophy
+HP:0003549,Abnormality of connective tissue
+HP:0001371,Flexion contracture
+HP:0002086,Abnormality of the respiratory system
+HP:0002104,Apnea
+Total,
+Export for OMIM:614833,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0007256,Abnormal pyramidal signs
+HP:0001260,Dysarthria
+HP:0002126,Polymicrogyria
+HP:0001257,Spasticity
+HP:0002465,Poor speech
+HP:0001273,Abnormality of the corpus callosum
+HP:0001250,Seizures
+HP:0001272,Cerebellar atrophy
+HP:0002342,"Intellectual disability, moderate"
+HP:0002353,EEG abnormality
+HP:0000252,Microcephaly
+HP:0001507,Growth abnormality
+HP:0003502,Mild short stature
+HP:0000924,Abnormality of the skeletal system
+HP:0000252,Microcephaly
+HP:0003011,Abnormality of the musculature
+HP:0001257,Spasticity
+HP:0000152,Abnormality of head or neck
+HP:0000252,Microcephaly
+Total,
+Export for OMIM:615398,
+HPO id,HPO label
+HP:0000152,Abnormality of head or neck
+HP:0000218,High palate
+HP:0002714,Downturned corners of mouth
+HP:0000348,High forehead
+HP:0005280,Depressed nasal bridge
+HP:0000248,Brachycephaly
+HP:0000341,Narrow forehead
+HP:0002002,Deep philtrum
+HP:0000256,Macrocephaly
+HP:0000343,Long philtrum
+HP:0000194,Open mouth
+HP:0000164,Abnormality of the dentition
+HP:0000924,Abnormality of the skeletal system
+HP:0000767,Pectus excavatum
+HP:0000248,Brachycephaly
+HP:0000256,Macrocephaly
+HP:0002750,Delayed skeletal maturation
+HP:0002650,Scoliosis
+HP:0000939,Osteoporosis
+HP:0000938,Osteopenia
+HP:0003022,Hypoplasia of the ulna
+HP:0000707,Abnormality of the nervous system
+HP:0001321,Cerebellar hypoplasia
+HP:0002059,Cerebral atrophy
+HP:0001250,Seizures
+HP:0002353,EEG abnormality
+HP:0001263,Global developmental delay
+HP:0000119,Abnormality of the genitourinary system
+HP:0002150,Hypercalciuria
+HP:0000107,Renal cyst
+HP:0000121,Nephrocalcinosis
+HP:0000071,Ureteral stenosis
+HP:0000478,Abnormality of the eye
+HP:0000540,Hypermetropia
+HP:0000505,Visual impairment
+HP:0000486,Strabismus
+HP:0000639,Nystagmus
+HP:0001626,Abnormality of the cardiovascular system
+HP:0001643,Patent ductus arteriosus
+HP:0001723,Restrictive cardiomyopathy
+HP:0001507,Growth abnormality
+HP:0001520,Large for gestational age
+HP:0000769,Abnormality of the breast
+HP:0003186,Inverted nipples
+HP:0040064,Abnormality of limbs
+HP:0003022,Hypoplasia of the ulna
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0002150,Hypercalciuria
+Total,
+Export for OMIM:615474,
+HPO id,HPO label
+HP:0001626,Abnormality of the cardiovascular system
+HP:0000822,Hypertension
+HP:0001655,Patent foramen ovale
+HP:0002092,Pulmonary arterial hypertension
+HP:0001629,Ventricular septal defect
+HP:0001712,Left ventricular hypertrophy
+HP:0200128,Biventricular hypertrophy
+HP:0000707,Abnormality of the nervous system
+HP:0002510,Spastic tetraplegia
+HP:0100021,Cerebral palsy
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002305,Athetosis
+HP:0001263,Global developmental delay
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0200114,Metabolic alkalosis
+HP:0002900,Hypokalemia
+HP:0000119,Abnormality of the genitourinary system
+HP:0000787,Nephrolithiasis
+HP:0000478,Abnormality of the eye
+HP:0100704,Cortical visual impairment
+HP:0002086,Abnormality of the respiratory system
+HP:0002092,Pulmonary arterial hypertension
+HP:0000818,Abnormality of the endocrine system
+HP:0003351,Decreased circulating renin level
+HP:0003011,Abnormality of the musculature
+HP:0002510,Spastic tetraplegia
+Total,
+Export for OMIM:615553,
+HPO id,HPO label
+HP:0000924,Abnormality of the skeletal system
+HP:0002804,Arthrogryposis multiplex congenita
+HP:0002827,Hip dislocation
+HP:0000308,Microretrognathia
+HP:0100490,Camptodactyly of finger
+HP:0000252,Microcephaly
+HP:0004976,Knee dislocation
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0000252,Microcephaly
+HP:0001249,Intellectual disability
+HP:0000729,Autistic behavior
+HP:0001263,Global developmental delay
+HP:0040064,Abnormality of limbs
+HP:0100490,Camptodactyly of finger
+HP:0002827,Hip dislocation
+HP:0004976,Knee dislocation
+HP:0003011,Abnormality of the musculature
+HP:0002804,Arthrogryposis multiplex congenita
+HP:0100490,Camptodactyly of finger
+HP:0001290,Generalized hypotonia
+HP:0003549,Abnormality of connective tissue
+HP:0002804,Arthrogryposis multiplex congenita
+HP:0100490,Camptodactyly of finger
+HP:0000152,Abnormality of head or neck
+HP:0000308,Microretrognathia
+HP:0000252,Microcephaly
+Total,
+Export for OMIM:615760,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0003429,CNS hypomyelination
+HP:0009879,Cortical gyral simplification
+HP:0001347,Hyperreflexia
+HP:0002119,Ventriculomegaly
+HP:0002059,Cerebral atrophy
+HP:0000253,Progressive microcephaly
+HP:0006855,Cerebellar vermis atrophy
+HP:0002079,Hypoplasia of the corpus callosum
+HP:0002133,Status epilepticus
+HP:0001263,Global developmental delay
+HP:0000152,Abnormality of head or neck
+HP:0000253,Progressive microcephaly
+HP:0000286,Epicanthus
+HP:0000341,Narrow forehead
+HP:0000601,Hypotelorism
+HP:0000340,Sloping forehead
+HP:0000598,Abnormality of the ear
+HP:0000358,Posteriorly rotated ears
+HP:0000369,Low-set ears
+HP:0000924,Abnormality of the skeletal system
+HP:0000253,Progressive microcephaly
+HP:0000478,Abnormality of the eye
+HP:0000601,Hypotelorism
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+Total,
+Export for OMIM:616172,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+HP:0002121,Absence seizures
+HP:0010819,Atonic seizures
+HP:0001263,Global developmental delay
+HP:0002373,Febrile seizures
+HP:0002384,Focal seizures with impairment of consciousness or awareness
+Total,
+Export for OMIM:616418,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0000252,Microcephaly
+HP:0001249,Intellectual disability
+HP:0001263,Global developmental delay
+HP:0000924,Abnormality of the skeletal system
+HP:0000252,Microcephaly
+HP:0000152,Abnormality of head or neck
+HP:0000252,Microcephaly
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0002917,Hypomagnesemia
+Total,
+Export for OMIM:616632,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002079,Hypoplasia of the corpus callosum
+HP:0002465,Poor speech
+HP:0001250,Seizures
+HP:0000252,Microcephaly
+HP:0000478,Abnormality of the eye
+HP:0100704,Cortical visual impairment
+HP:0000648,Optic atrophy
+HP:0001507,Growth abnormality
+HP:0004322,Short stature
+HP:0000924,Abnormality of the skeletal system
+HP:0000252,Microcephaly
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+HP:0000152,Abnormality of head or neck
+HP:0000252,Microcephaly
+Total,
+Export for OMIM:616682,
+HPO id,HPO label
+HP:0000924,Abnormality of the skeletal system
+HP:0001845,Overlapping toe
+HP:0002650,Scoliosis
+HP:0000256,Macrocephaly
+HP:0000152,Abnormality of head or neck
+HP:0000316,Hypertelorism
+HP:0000256,Macrocephaly
+HP:0000280,Coarse facial features
+HP:0000707,Abnormality of the nervous system
+HP:0001250,Seizures
+HP:0002465,Poor speech
+HP:0001263,Global developmental delay
+HP:0000478,Abnormality of the eye
+HP:0000316,Hypertelorism
+HP:0000486,Strabismus
+HP:0025031,Abnormality of the digestive system
+HP:0002019,Constipation
+HP:0002020,Gastroesophageal reflux
+HP:0001626,Abnormality of the cardiovascular system
+HP:0001629,Ventricular septal defect
+HP:0000119,Abnormality of the genitourinary system
+HP:0000028,Cryptorchidism
+HP:0040064,Abnormality of limbs
+HP:0001845,Overlapping toe
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+Total,
+Export for OMIM:616732,
+HPO id,HPO label
+HP:0000478,Abnormality of the eye
+HP:0000603,Central scotoma
+HP:0007663,Reduced visual acuity
+HP:0000613,Photophobia
+HP:0000543,Optic disc pallor
+HP:0000639,Nystagmus
+HP:0000707,Abnormality of the nervous system
+HP:0001251,Ataxia
+HP:0000613,Photophobia
+HP:0001256,"Intellectual disability, mild"
+Total,
+Export for OMIM:616756,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002061,Lower limb spasticity
+HP:0012448,Delayed myelination
+HP:0002515,Waddling gait
+HP:0001249,Intellectual disability
+HP:0001332,Dystonia
+HP:0002059,Cerebral atrophy
+HP:0002136,Broad-based gait
+HP:0002123,Generalized myoclonic seizures
+HP:0002079,Hypoplasia of the corpus callosum
+HP:0002376,Developmental regression
+HP:0001251,Ataxia
+HP:0001250,Seizures
+HP:0002540,Inability to walk
+HP:0000252,Microcephaly
+HP:0001263,Global developmental delay
+HP:0000924,Abnormality of the skeletal system
+HP:0002827,Hip dislocation
+HP:0002808,Kyphosis
+HP:0002650,Scoliosis
+HP:0002938,Lumbar hyperlordosis
+HP:0000252,Microcephaly
+HP:0000478,Abnormality of the eye
+HP:0000545,Myopia
+HP:0000486,Strabismus
+HP:0000556,Retinal dystrophy
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+HP:0002061,Lower limb spasticity
+HP:0001252,Muscular hypotonia
+HP:0001507,Growth abnormality
+HP:0004322,Short stature
+HP:0001513,Obesity
+HP:0040064,Abnormality of limbs
+HP:0002827,Hip dislocation
+HP:0001762,Talipes equinovarus
+HP:0000598,Abnormality of the ear
+HP:0000407,Sensorineural hearing impairment
+HP:0000152,Abnormality of head or neck
+HP:0000252,Microcephaly
+Total,
+Export for OMIM:617080,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002069,Generalized tonic-clonic seizures
+Total,
+Export for OMIM:617157,
+HPO id,HPO label
+HP:0000152,Abnormality of head or neck
+HP:0000490,Deeply set eye
+HP:0005280,Depressed nasal bridge
+HP:0012745,Short palpebral fissure
+HP:0000218,High palate
+HP:0000455,Broad nasal tip
+HP:0002007,Frontal bossing
+HP:0000286,Epicanthus
+HP:0009891,Underdeveloped supraorbital ridges
+HP:0000278,Retrognathia
+HP:0000343,Long philtrum
+HP:0000233,Thin vermilion border
+HP:0000431,Wide nasal bridge
+HP:0000272,Malar flattening
+HP:0000470,Short neck
+HP:0000252,Microcephaly
+HP:0000924,Abnormality of the skeletal system
+HP:0010743,Short metatarsal
+HP:0010049,Short metacarpal
+HP:0002007,Frontal bossing
+HP:0001156,Brachydactyly
+HP:0000278,Retrognathia
+HP:0000272,Malar flattening
+HP:0000470,Short neck
+HP:0000252,Microcephaly
+HP:0000707,Abnormality of the nervous system
+HP:0000750,Delayed speech and language development
+HP:0001250,Seizures
+HP:0000252,Microcephaly
+HP:0012448,Delayed myelination
+HP:0001249,Intellectual disability
+HP:0001263,Global developmental delay
+HP:0040064,Abnormality of limbs
+HP:0010743,Short metatarsal
+HP:0001156,Brachydactyly
+HP:0010049,Short metacarpal
+HP:0000478,Abnormality of the eye
+HP:0000483,Astigmatism
+HP:0000490,Deeply set eye
+HP:0000486,Strabismus
+HP:0001507,Growth abnormality
+HP:0004322,Short stature
+HP:0001513,Obesity
+HP:0000818,Abnormality of the endocrine system
+HP:0000852,Pseudohypoparathyroidism
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+Total,
+Export for OMIM:617171,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0000713,Agitation
+HP:0002360,Sleep disturbance
+HP:0100660,Dyskinesia
+HP:0000720,Mood swings
+HP:0001249,Intellectual disability
+HP:0004305,Involuntary movements
+HP:0001344,Absent speech
+HP:0002133,Status epilepticus
+HP:0002353,EEG abnormality
+HP:0000718,Aggressive behavior
+HP:0001263,Global developmental delay
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+Total,
+Export for OMIM:617268,
+HPO id,HPO label
+HP:0000152,Abnormality of head or neck
+HP:0000490,Deeply set eye
+HP:0005280,Depressed nasal bridge
+HP:0011800,Midface retrusion
+HP:0011220,Prominent forehead
+HP:0001999,Abnormal facial shape
+HP:0000506,Telecanthus
+HP:0045075,Sparse eyebrow
+HP:0000414,Bulbous nose
+HP:0000463,Anteverted nares
+HP:0000286,Epicanthus
+HP:0000154,Wide mouth
+HP:0000179,Thick lower lip vermilion
+HP:0000574,Thick eyebrow
+HP:0000707,Abnormality of the nervous system
+HP:0002119,Ventriculomegaly
+HP:0100023,Recurrent hand flapping
+HP:0001249,Intellectual disability
+HP:0002059,Cerebral atrophy
+HP:0001250,Seizures
+HP:0100716,Self-injurious behavior
+HP:0002353,EEG abnormality
+HP:0001263,Global developmental delay
+HP:0000478,Abnormality of the eye
+HP:0000490,Deeply set eye
+HP:0000486,Strabismus
+HP:0000508,Ptosis
+HP:0100704,Cortical visual impairment
+HP:0000639,Nystagmus
+HP:0001574,Abnormality of the integument
+HP:0045075,Sparse eyebrow
+HP:0000574,Thick eyebrow
+HP:0000924,Abnormality of the skeletal system
+HP:0000938,Osteopenia
+HP:0025031,Abnormality of the digestive system
+HP:0040288,Nasogastric tube feeding
+HP:0000598,Abnormality of the ear
+HP:0000400,Macrotia
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+Total,
+Export for OMIM:617452,
+HPO id,HPO label
+HP:0000152,Abnormality of head or neck
+HP:0000218,High palate
+HP:0000426,Prominent nasal bridge
+HP:0000527,Long eyelashes
+HP:0000219,Thin upper lip vermilion
+HP:0000637,Long palpebral fissure
+HP:0000248,Brachycephaly
+HP:0000276,Long face
+HP:0005469,Flat occiput
+HP:0000278,Retrognathia
+HP:0000343,Long philtrum
+HP:0000431,Wide nasal bridge
+HP:0002553,Highly arched eyebrow
+HP:0000470,Short neck
+HP:0000252,Microcephaly
+HP:0000494,Downslanted palpebral fissures
+HP:0000924,Abnormality of the skeletal system
+HP:0011304,Broad thumb
+HP:0001845,Overlapping toe
+HP:0001182,Tapered finger
+HP:0000248,Brachycephaly
+HP:0005469,Flat occiput
+HP:0000960,Sacral dimple
+HP:0000278,Retrognathia
+HP:0000470,Short neck
+HP:0001371,Flexion contracture
+HP:0002650,Scoliosis
+HP:0000252,Microcephaly
+HP:0000707,Abnormality of the nervous system
+HP:0010864,"Intellectual disability, severe"
+HP:0002119,Ventriculomegaly
+HP:0002510,Spastic tetraplegia
+HP:0002079,Hypoplasia of the corpus callosum
+HP:0002540,Inability to walk
+HP:0000252,Microcephaly
+HP:0000729,Autistic behavior
+HP:0001263,Global developmental delay
+HP:0040064,Abnormality of limbs
+HP:0011304,Broad thumb
+HP:0001845,Overlapping toe
+HP:0001182,Tapered finger
+HP:0001762,Talipes equinovarus
+HP:0000598,Abnormality of the ear
+HP:0000365,Hearing impairment
+HP:0000400,Macrotia
+HP:0000411,Protruding ear
+HP:0000369,Low-set ears
+HP:0001507,Growth abnormality
+HP:0004322,Short stature
+HP:0001508,Failure to thrive
+HP:0001511,Intrauterine growth retardation
+HP:0001574,Abnormality of the integument
+HP:0000960,Sacral dimple
+HP:0000527,Long eyelashes
+HP:0002553,Highly arched eyebrow
+HP:0003011,Abnormality of the musculature
+HP:0002510,Spastic tetraplegia
+HP:0001290,Generalized hypotonia
+HP:0001371,Flexion contracture
+HP:0000119,Abnormality of the genitourinary system
+HP:0000028,Cryptorchidism
+HP:0025031,Abnormality of the digestive system
+HP:0011968,Feeding difficulties
+HP:0003549,Abnormality of connective tissue
+HP:0001371,Flexion contracture
+Total,
+Export for ORPHA:1167,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0010628,Facial palsy
+HP:0002119,Ventriculomegaly
+HP:0001250,Seizures
+HP:0002353,EEG abnormality
+HP:0001249,Intellectual disability
+HP:0003011,Abnormality of the musculature
+HP:0010628,Facial palsy
+HP:0000152,Abnormality of head or neck
+HP:0010628,Facial palsy
+Total,
+Export for ORPHA:1568,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002119,Ventriculomegaly
+HP:0007360,Aplasia/Hypoplasia of the cerebellum
+HP:0002120,Cerebral cortical atrophy
+HP:0000119,Abnormality of the genitourinary system
+HP:0000028,Cryptorchidism
+HP:0000924,Abnormality of the skeletal system
+HP:0000256,Macrocephaly
+HP:0025031,Abnormality of the digestive system
+HP:0000023,Inguinal hernia
+HP:0000478,Abnormality of the eye
+HP:0000486,Strabismus
+HP:0003549,Abnormality of connective tissue
+HP:0000023,Inguinal hernia
+HP:0000152,Abnormality of head or neck
+HP:0000256,Macrocephaly
+Total,
+Export for ORPHA:2773,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0011344,Severe global developmental delay
+HP:0001250,Seizures
+HP:0001249,Intellectual disability
+HP:0000924,Abnormality of the skeletal system
+HP:0002757,Recurrent fractures
+HP:0002645,Wormian bones
+HP:0000478,Abnormality of the eye
+HP:0000504,Abnormality of vision
+HP:0000648,Optic atrophy
+HP:0000152,Abnormality of head or neck
+HP:0002645,Wormian bones
+Total,
+Export for ORPHA:369929,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0010864,"Intellectual disability, severe"
+HP:0002170,Intracranial hemorrhage
+HP:0100021,Cerebral palsy
+HP:0002305,Athetosis
+HP:0001258,Spastic paraplegia
+HP:0002315,Headache
+HP:0002069,Generalized tonic-clonic seizures
+HP:0001959,Polydipsia
+HP:0011166,Focal myoclonic seizures
+HP:0002384,Focal seizures with impairment of consciousness or awareness
+HP:0001263,Global developmental delay
+HP:0001626,Abnormality of the cardiovascular system
+HP:0001714,Ventricular hypertrophy
+HP:0000822,Hypertension
+HP:0011706,Second degree atrioventricular block
+HP:0002170,Intracranial hemorrhage
+HP:0001629,Ventricular septal defect
+HP:0002092,Pulmonary arterial hypertension
+HP:0000818,Abnormality of the endocrine system
+HP:0000859,Hyperaldosteronism
+HP:0040084,Abnormal circulating renin
+HP:0008221,Adrenal hyperplasia
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0200114,Metabolic alkalosis
+HP:0002900,Hypokalemia
+HP:0001871,Abnormality of blood and blood-forming tissues
+HP:0000421,Epistaxis
+HP:0002170,Intracranial hemorrhage
+HP:0003011,Abnormality of the musculature
+HP:0100285,EMG: impaired neuromuscular transmission
+HP:0001258,Spastic paraplegia
+HP:0025031,Abnormality of the digestive system
+HP:0002018,Nausea
+HP:0000119,Abnormality of the genitourinary system
+HP:0000787,Nephrolithiasis
+HP:0000478,Abnormality of the eye
+HP:0100704,Cortical visual impairment
+HP:0000598,Abnormality of the ear
+HP:0000360,Tinnitus
+HP:0002086,Abnormality of the respiratory system
+HP:0002092,Pulmonary arterial hypertension
+HP:0001197,Abnormality of prenatal development or birth
+HP:0011410,Caesarian section
+HP:0000152,Abnormality of head or neck
+HP:0000421,Epistaxis
+Total,
+Export for ORPHA:369950,
+HPO id,HPO label
+HP:0000152,Abnormality of head or neck
+HP:0000160,Narrow mouth
+HP:0000280,Coarse facial features
+HP:0006482,Abnormality of dental morphology
+HP:0000629,Periorbital fullness
+HP:0002705,"High, narrow palate"
+HP:0000316,Hypertelorism
+HP:0000444,Convex nasal ridge
+HP:0000158,Macroglossia
+HP:0000347,Micrognathia
+HP:0000286,Epicanthus
+HP:0000179,Thick lower lip vermilion
+HP:0000256,Macrocephaly
+HP:0000311,Round face
+HP:0000684,Delayed eruption of teeth
+HP:0002003,Large forehead
+HP:0000574,Thick eyebrow
+HP:0000494,Downslanted palpebral fissures
+HP:0000707,Abnormality of the nervous system
+HP:0001269,Hemiparesis
+HP:0000722,Obsessive-compulsive behavior
+HP:0001249,Intellectual disability
+HP:0002136,Broad-based gait
+HP:0002079,Hypoplasia of the corpus callosum
+HP:0000750,Delayed speech and language development
+HP:0001250,Seizures
+HP:0000718,Aggressive behavior
+HP:0001263,Global developmental delay
+HP:0100703,Tongue thrusting
+HP:0000478,Abnormality of the eye
+HP:0000646,Amblyopia
+HP:0000316,Hypertelorism
+HP:0000508,Ptosis
+HP:0000577,Exotropia
+HP:0000483,Astigmatism
+HP:0000924,Abnormality of the skeletal system
+HP:0004209,Clinodactyly of the 5th finger
+HP:0000256,Macrocephaly
+HP:0000347,Micrognathia
+HP:0000598,Abnormality of the ear
+HP:0000365,Hearing impairment
+HP:0011246,Underdeveloped superior crus of antihelix
+HP:0000358,Posteriorly rotated ears
+HP:0001626,Abnormality of the cardiovascular system
+HP:0001716,Wolff-Parkinson-White syndrome
+HP:0001634,Mitral valve prolapse
+HP:0001507,Growth abnormality
+HP:0001508,Failure to thrive
+HP:0001513,Obesity
+HP:0040064,Abnormality of limbs
+HP:0004209,Clinodactyly of the 5th finger
+HP:0001763,Pes planus
+HP:0001574,Abnormality of the integument
+HP:0001051,Seborrheic dermatitis
+HP:0000574,Thick eyebrow
+HP:0003011,Abnormality of the musculature
+HP:0001290,Generalized hypotonia
+HP:0000158,Macroglossia
+HP:0025031,Abnormality of the digestive system
+HP:0002019,Constipation
+HP:0000818,Abnormality of the endocrine system
+HP:0012680,Abnormality of the pineal gland
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0002046,Heat intolerance
+HP:0000119,Abnormality of the genitourinary system
+HP:0000805,Enuresis
+HP:0002715,Abnormality of the immune system
+HP:0001051,Seborrheic dermatitis
+HP:0000769,Abnormality of the breast
+HP:0003186,Inverted nipples
+Total,
+Export for ORPHA:79156,
+HPO id,HPO label
+HP:0000707,Abnormality of the nervous system
+HP:0002123,Generalized myoclonic seizures
+HP:0001249,Intellectual disability
+HP:0000119,Abnormality of the genitourinary system
+HP:0003355,Aminoaciduria
+HP:0001939,Abnormality of metabolism/homeostasis
+HP:0003355,Aminoaciduria
+Total,
+,
